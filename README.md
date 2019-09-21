@@ -6,4 +6,5 @@ The purpose of this script is to prevent so called "ALT menu acceleration" from 
 
 Great thanks to TaranVH for the inspiration, he has similar script, but it works in a different way and has different usecases, he also has a lot of useful scripts, so if you're into video editing, you really should check out his channel:
 https://www.youtube.com/watch?v=vRld4bVFrpU
+
 https://github.com/TaranVH/2nd-keyboard
