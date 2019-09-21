@@ -1,0 +1,2 @@
+# shift-alt_behavior_change
+Some people use Ctrl + Shift to switch input language, some people use Alt + Shift, and I use Shift + Alt. I don't know why, I've been doing so since I was a child, and now I'm just used to it. The thing is, when you press Shift + Alt instead Alt + Shift, windows waits for you to use some Alt + smth hotkey, and as far as I know, there is no way to prevent it from happening.
