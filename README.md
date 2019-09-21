@@ -4,7 +4,7 @@ Some people use Ctrl + Shift to switch input language, some people use Alt + Shi
 
 The purpose of this script is to prevent so called "ALT menu acceleration" from working when you press Shift + Alt and use Alt to switch languages while holding Shift.
 
-Great thanks to TaranVH for the inspiration, he has similar script, but it works in a different way and has different usecases, he also has a lot of useful scripts, so if you're into video editing, you really should check out his channel:
+Great thanks to TaranVH for the inspiration, he has similar script, but it works in a different way and has different usecases, he also has a lot of useful scripts, so if you're into video editing, you really should check out his channel and github:
 https://www.youtube.com/watch?v=vRld4bVFrpU
 
 https://github.com/TaranVH/2nd-keyboard
